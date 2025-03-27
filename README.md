@@ -4,3 +4,4 @@ The rapid growth of online platforms has led to an exponential increase in harmf
 
 If you want to predict directly without training the model, download model weights directly from this drive link
 Drive link: https://drive.google.com/drive/folders/1rgpVE7N6ruP6k_DAuoaI-eYIPgWGCd7w?usp=sharing
+Note: Place this folder inside the same working directory where the main codes are present.
